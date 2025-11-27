@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Random\\c#\\karat\u00E9 mission 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|c:\\random\\c#\\karat\u00E9 mission 1\\frm_gestionmembre_cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:frm_gestionmembre_cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|C:\\Random\\c#\\karat\u00E9 mission 1\\frm_gestionmembre_cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:frm_gestionmembre_cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|C:\\Random\\c#\\karat\u00E9 mission 1\\frm_gestionmembres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:frm_gestionmembres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|C:\\Random\\c#\\karat\u00E9 mission 1\\frm_gestionmembres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:frm_gestionmembres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|C:\\Random\\c#\\karat\u00E9 mission 1\\frm_gestionmembres_accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:frm_gestionmembres_accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|C:\\Random\\c#\\karat\u00E9 mission 1\\frm_gestionmembres_ms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:frm_gestionmembres_ms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|C:\\Random\\c#\\karat\u00E9 mission 1\\bddconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:bddconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|C:\\Random\\c#\\karat\u00E9 mission 1\\frm_gestionmembres_ms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:frm_gestionmembres_ms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|C:\\Random\\c#\\karat\u00E9 mission 1\\frm_gestionmembres_aj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:frm_gestionmembres_aj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|C:\\Random\\c#\\karat\u00E9 mission 1\\frm_gestionmembres_aj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992CD05E-67BB-4B0E-BA70-D4602012B740}|karat\u00E9 mission 1.csproj|solutionrelative:frm_gestionmembres_aj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Frm_GestionMembres_AJ.cs [Design]",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_AJ.cs",
+              "RelativeDocumentMoniker": "Frm_GestionMembres_AJ.cs",
+              "ToolTip": "C:\\Users\\kyrozzz\\Documents\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_AJ.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\kyrozzz\\Documents\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_AJ.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:37:04.292Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_GestionMembres_MS.cs [Design]",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_MS.cs",
+              "RelativeDocumentMoniker": "Frm_GestionMembres_MS.cs",
+              "ToolTip": "C:\\Users\\kyrozzz\\Documents\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_MS.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\kyrozzz\\Documents\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_MS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:13:08.053Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_GestionMembres_Accueil.cs [Design]",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_Accueil.cs",
+              "RelativeDocumentMoniker": "Frm_GestionMembres_Accueil.cs",
+              "ToolTip": "C:\\Users\\kyrozzz\\Documents\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_Accueil.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\kyrozzz\\Documents\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_Accueil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:12:58.817Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_GestionMembres.cs [Design]",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres.cs",
+              "RelativeDocumentMoniker": "Frm_GestionMembres.cs",
+              "ToolTip": "C:\\Users\\kyrozzz\\Documents\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\kyrozzz\\Documents\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:12:56.038Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_GestionMembre_Cons.cs [Design]",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembre_Cons.cs",
+              "RelativeDocumentMoniker": "Frm_GestionMembre_Cons.cs",
+              "ToolTip": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembre_Cons.cs [Design]",
+              "RelativeToolTip": "Frm_GestionMembre_Cons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:29:46.197Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_GestionMembre_Cons.cs",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembre_Cons.cs",
+              "RelativeDocumentMoniker": "Frm_GestionMembre_Cons.cs",
+              "ToolTip": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembre_Cons.cs",
+              "RelativeToolTip": "Frm_GestionMembre_Cons.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwGwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:31:30.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BddConnexion.cs",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\BddConnexion.cs",
+              "RelativeDocumentMoniker": "BddConnexion.cs",
+              "ToolTip": "C:\\Random\\c#\\karat\u00E9 mission 1\\BddConnexion.cs",
+              "RelativeToolTip": "BddConnexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:25:13.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Frm_GestionMembres_AJ.cs",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_AJ.cs",
+              "RelativeDocumentMoniker": "Frm_GestionMembres_AJ.cs",
+              "ToolTip": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_AJ.cs",
+              "RelativeToolTip": "Frm_GestionMembres_AJ.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:32:01.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_GestionMembres.cs",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres.cs",
+              "RelativeDocumentMoniker": "Frm_GestionMembres.cs",
+              "ToolTip": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres.cs",
+              "RelativeToolTip": "Frm_GestionMembres.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAApwD4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:30:42.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frm_GestionMembres_MS.cs",
+              "DocumentMoniker": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_MS.cs",
+              "RelativeDocumentMoniker": "Frm_GestionMembres_MS.cs",
+              "ToolTip": "C:\\Random\\c#\\karat\u00E9 mission 1\\Frm_GestionMembres_MS.cs",
+              "RelativeToolTip": "Frm_GestionMembres_MS.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAewOsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:22:51.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
